@@ -5,7 +5,6 @@ from src.data_structures import Set
 @given("there is an empty Set")
 def step_impl(context):
     context.set = Set([])
-    pass
 
 
 @when("I add an element {element} to the Set")

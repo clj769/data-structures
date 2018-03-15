@@ -1,5 +1,6 @@
-Feature: Set Data Structure
-  Create a Set Data structure
+Feature: Implement a Set Data Structure
+  Describe and implement a Set data structure
+  Using Python as a language
 
   Scenario: Add element to the Set
     Given there is an empty Set
