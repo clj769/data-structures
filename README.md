@@ -3,7 +3,7 @@ This is a collection of the most common and used data structures implemented in 
 
 ### Data Structures to Implement:
 - ~~Set~~
-- Hash Map (or Hash Table)
+- ~~Hash Map (or Hash Table)~~
 - Linked List
 - ArrayList
 - Trees
