@@ -4,9 +4,14 @@ This is a collection of the most common and used data structures implemented in 
 ### Data Structures to Implement:
 - ~~Set~~
 - ~~Hash Map (or Hash Table)~~
-- Linked List
+- ~~Linked List~~
 - ArrayList
 - Trees
 - Graphs
 - Stack/Queues
 - Heaps
+
+
+### Next steps:
+- use better assertion lib ([PyHamcrest](https://github.com/hamcrest/PyHamcrest) ?)
+- extend type hinting to every class
