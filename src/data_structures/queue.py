@@ -1,16 +1,15 @@
 class Queue:
-
     def __init__(self):
         self.head = None
         self.tail = None
 
-    def is_empty(self):
+    def is_empty(self) -> bool:
         return self.head is None
 
     def peek(self):
         return self.head
 
-    def add(self, value):
+    def add(self, value) -> None:
         node = Node(value)
 
         if self.head is None:
@@ -21,7 +20,7 @@ class Queue:
 
         self.tail = node
 
-    def remove(self):
+    def remove(self) -> None:
         if self.head is None:
             return
 
