@@ -22,7 +22,7 @@ def step_impl(context):
     context.result = context.queue.peek()
 
 
-@then("I the result should be None")
+@then("the result should be None")
 def step_impl(context):
     assert context.result is None
 
@@ -32,7 +32,7 @@ def step_impl(context, element):
     context.queue.add(element)
 
 
-@then("I the result should be {result}")
+@then("the result should be {result}")
 def step_impl(context, result):
     assert context.result.value == result
 
