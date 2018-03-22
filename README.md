@@ -5,10 +5,12 @@ This is a collection of the most common and used data structures implemented in 
 - ~~Set~~
 - ~~Hash Map (or Hash Table)~~
 - ~~Linked List~~
+- ~~Stack~~
+- ~~Queues~~
 - ArrayList
 - Trees
+- Tries
 - Graphs
-- Stack/Queues
 - Heaps
 
 
