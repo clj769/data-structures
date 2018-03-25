@@ -8,7 +8,7 @@ This is a collection of the most common and used data structures implemented in 
 - ~~Stack~~
 - ~~Queues~~
 - ArrayList
-- Trees
+- ~~BST~~
 - ~~Tries~~
 - Graphs
 - Heaps
