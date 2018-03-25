@@ -9,7 +9,7 @@ This is a collection of the most common and used data structures implemented in 
 - ~~Queues~~
 - ArrayList
 - Trees
-- Tries
+- ~~Tries~~
 - Graphs
 - Heaps
 
