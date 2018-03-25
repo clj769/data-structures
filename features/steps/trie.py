@@ -1,5 +1,5 @@
 from behave import given, when, then, step
-from src.data_structures.trie import Trie
+from src.data_structures import Trie
 
 
 @then("the trie should contain the word {word}")
