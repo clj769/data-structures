@@ -7,11 +7,10 @@ This is a collection of the most common and used data structures implemented in 
 - ~~Linked List~~
 - ~~Stack~~
 - ~~Queues~~
-- ArrayList
 - ~~BST~~
 - ~~Tries~~
 - Graphs
-- Heaps
+- ~~Heaps~~
 
 
 ### Next steps:
