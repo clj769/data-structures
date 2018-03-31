@@ -19,3 +19,6 @@ def step_impl(context, list):
     assert context.heap.data == [int(i) for i in list.split()]
 
 
+@when("I remove the root from the min heap")
+def step_impl(context):
+    context.heap.remove_root()
